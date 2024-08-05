@@ -5,6 +5,7 @@ import PersonalPortfolio from "./pages/Home/PersonalPortfolio";
 import IT1023 from "./pages/Home/IT1023";
 import NotFound from "./pages/Home/NotFound";
 import AnimatedCursor from "react-animated-cursor";
+//
 
 function App() {
   useEffect(() => {
