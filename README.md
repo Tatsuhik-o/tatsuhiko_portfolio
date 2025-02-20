@@ -1,1 +1,1 @@
-for a live preview : https://tatsuhiko.netlify.app/
+for a live preview : https://tatsuhiko.vercel.app/
