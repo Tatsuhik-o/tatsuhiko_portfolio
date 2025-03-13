@@ -20,7 +20,7 @@ const BannerArea = () => {
                 <ul className="list-wrap">
                   <li>
                     <a
-                      href="https://drive.google.com/file/d/1S4hcj8_Tbq1uqxZF-5MWwtARtLtR96aW/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1XpYn-TpgM98sTLtLlzcvLjH15TC5cdpK/view"
                       target="_blank"
                       rel="noreferrer"
                     >
